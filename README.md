@@ -1,4 +1,4 @@
-# Data Addict : City people training (data-addict-city-people-training)
+# Data Addict : City people training 
 
 ## Chapiter 01 : « Many People In The City »
 
