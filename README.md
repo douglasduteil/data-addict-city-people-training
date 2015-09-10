@@ -18,7 +18,7 @@ $ data-addict-city-people-training
 
 ## Info
 
-This tutorial was built using rvagg's [workshopper](https://github.com/rvagg/workshopper) framework.
+This tutorial was built using rvagg's [workshopper](https://github.com/rvagg/workshopper) framework.  
 The verifier is heavily inspired by the [`runner` in the functional-javascript-workshop] (https://github.com/timoxley/functional-javascript-workshop/blob/1.0.2/exercises/runner.js).
 
 
