@@ -7,19 +7,19 @@
 ### Installation
 
 ```sh
-$ npm i -g data-addict-city-people-training
+$ npm i -g data-addict-training-chapiter-01-many-people-in-the-city
 ```
 
 ### Usage
 
 ```sh
-$ data-addict-city-people-training
+$ data-addict-training-chapiter-01-many-people-in-the-city
 ```
 
 ## Info
 
 This tutorial was built using rvagg's [workshopper](https://github.com/rvagg/workshopper) framework.  
-The verifier is heavily inspired by the [`runner` in the functional-javascript-workshop] (https://github.com/timoxley/functional-javascript-workshop/blob/1.0.2/exercises/runner.js).
+The verifier is my [workshopper-node-default-exports-runner] (https://github.com/douglasduteil/workshopper-node-default-exports-runner).
 
 
 ## License
