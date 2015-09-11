@@ -1,0 +1,34 @@
+{
+  "name": "data-addict-training-chapiter-01-many-people-in-the-city",
+  "version": "1.0.0",
+  "description": "Data transformation exercises. For my data addicts. « Reduce The World »",
+  "main": "index.js",
+  "bin": "./data-addict-training-chapiter-01-many-people-in-the-city.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasduteil/data-addict-training-chapiter-01-many-people-in-the-city.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Douglas Duteil",
+    "email": "douglasduteil@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasduteil/data-addict-training-chapiter-01-many-people-in-the-city/issues"
+  },
+  "homepage": "https://github.com/douglasduteil/data-addict-training-chapiter-01-many-people-in-the-city#readme",
+  "dependencies": {
+    "chance": "^0.7.7",
+    "lodash": "^3.10.1",
+    "lodash.defaults": "^3.1.2",
+    "lodash.random": "^3.0.1",
+    "lodash.sample": "^3.1.0",
+    "workshopper": "^2.7.0",
+    "workshopper-node-default-exports-runner": "^1.0.0"
+  }
+}
